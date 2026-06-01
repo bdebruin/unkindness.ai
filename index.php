@@ -44,7 +44,7 @@
 <body>
     <div class=container>
         <h1><a href=https://github.com/bdebruin/unkindness.ai>Unkindness.ai</a></h1>
-        <p>A parliament of opinions. Coming soon.</p>
+        <p>A parliament of opinions.</p>
     </div>
 </body>
 </html>
